@@ -1,4 +1,8 @@
 ### Hi there 👋
+👋 Hi, I’m @Subhajit Ghosh
+👀 I’m interested in Machine Learning and Django.
+🌱 I’m currently developing my Machine Learning and Django skills.
+📫 If you wanna reach me please mail me at s.ghoshsovutz@gmail.com .
 
 <!--
 **gsub17/gsub17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

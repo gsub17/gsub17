@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @Subhajit Ghosh
-- 👀 I’m interested in Machine Learning and Django.
-- 🌱 I’m currently developing my Machine Learning and Django skills.
+- 👀 I’m interested in Machine Learning and DevOps.
+- 🌱 I’m currently developing my Machine Learning and DevOps skills.
 - 📫 If you wanna reach me please mail me at s.ghoshsovutz@gmail.com .
 <img src = "https://github-readme-stats.vercel.app/api?username=gsub17">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsub17&theme=dark&hide_langs_below=1"/>

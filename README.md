@@ -2,9 +2,10 @@
 - 👋 Hi, I’m @Subhajit Ghosh
 - 🌱 I’m currently developing my DevOps skills.
 - 📫 If you wanna reach me please mail me at s.ghoshsovutz@gmail.com .
+[![@gsub17's Holopin board](https://holopin.io/api/user/board?user=gsub17)](https://holopin.io/@gsub17)
+
 <img src = "https://github-readme-stats.vercel.app/api?username=gsub17">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsub17&theme=dark&hide_langs_below=1"/>
-
 
 
 <!--
